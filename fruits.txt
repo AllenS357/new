@@ -5,3 +5,5 @@ pineapple
 jackfruit
 eggfruit
 blueberry
+dragonfruit
+sapotta
