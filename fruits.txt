@@ -5,3 +5,6 @@ pineapple
 jackfruit
 eggfruit
 blueberry
+orange
+watermelon
+
