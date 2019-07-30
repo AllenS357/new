@@ -5,8 +5,15 @@ Satluj
 Yamuna
 Vaigai
 Brahmaputra
+<<<<<<< HEAD
 aaaaa
 sssss
 ddddd
 eeeee
 
+=======
+delta
+yangtze
+nile 
+amazon
+>>>>>>> c2b0093... Attempt1
